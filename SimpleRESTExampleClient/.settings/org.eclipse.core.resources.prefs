@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/com/example/webservice/Hello.java=UTF-8
+encoding//src/com/example/webservice/HelloService.java=UTF-8
+encoding//src/com/example/webservice/HelloServiceLocator.java=UTF-8
+encoding//src/com/example/webservice/HelloSoapBindingStub.java=UTF-8
